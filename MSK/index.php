@@ -2,7 +2,7 @@
     <head>
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <title>Да нууу - Адвокат в г.Москва - Пронина Елена Анатольевна</title>
+        <title>Да нууу 2 - Адвокат в г.Москва - Пронина Елена Анатольевна</title>
 		<meta name="description" content="Адвокат в г. Пензе - Пронина Елена Анатольевна. Профессиональная консультация. Услуги адвоката Елены Прониной в Пензе.">
 		<meta name="keywords" content="Пенза, адвокат, Пронина, Елена">
 		<link rel="icon" type="image/png" href="favicon.png" />
@@ -18,7 +18,7 @@
 				<div class="wfix">
 					<a class="logo" href="/"><img src="i/logo.png" alt="" /></a>
 					<div class="slogan"><b><strong>Адвокат</strong> по уголовным делам</b><i>Пронина Елена Анатольевна</i></div>
-					<div class="phones"><b>+7 (909) 317-88-16</b><a class="button" href="#">Заказать звонок</a></div>
+					<div class="phones	"><b>+7 (909) 317-88-16</b><a class="button" href="#">Заказать звонок</a></div>
 				</div>
 			</div>
 			<div id="promo_1">
