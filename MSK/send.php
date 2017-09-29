@@ -11,13 +11,13 @@ if (empty($error1)) {
 	$headers  = 'Content-type: text/html; charset=utf-8' . "\r\n"; 
     $message  = "{$msk} Адвокат. Телефон: {$phone} ";
 	
-	include "smsc_api.php";
-	$number="79093178816";
+   //	include "smsc_api.php";
+	//$number="79093178816";
 		
 	send_sms($number, $message, 0, 0, 0, 0, XXX);
 	
     if (mail("00010009@bk.ru", $subject, $message, $headers)) {
- 	//SMS отправка irika.76@mail.ru
+ 
 	
 	
 	//Конец SMS       
